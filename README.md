@@ -1,20 +1,20 @@
-# Elven Built website concept
+# Elven Built website
 
-Open index.html in any modern browser. All images and styling are included; no installation is needed.
+Homepage updated on 3 November 2026 using the supplied positioning brief.
 
-This responsive homepage uses Elven Built's supplied branding and Hawkesbury location. The reference-inspired layout includes a floating rounded navigation bar, full-width hero, introduction, approach, gallery placeholders and an enquiry planner.
+## Publishing to GitHub Pages
+Upload index.html, styles.css, script.js and the assets folder to the repository root, replacing the existing versions. This ZIP contains these files directly, without an extra enclosing folder. Keep the assets folder intact. The live website has not been changed by this local update.
 
-Before launch:
-- Add the business phone number and email, confirm services and copy, and add any required business/licence details.
-- Connect the enquiry form to the chosen delivery service. Currently it is a preview only, with no sending or download button.
-- Replace the labelled photo placeholders with actual project photography when available.
-- Supply licensed web font files for Solomon Sans and Sofia Sans if exact brand typography is required. This preview uses system sans-serif fonts.
+## Included
+Renovation-focused hero, introduction, six service categories, craftsmanship section, three approach pillars, four-step process, captioned gallery, property-renovator section, company introduction, local video and photo showcase, and enquiry form.
 
-The website is a local concept and has not been published.
+## Scope
+Service and About content are on this homepage. Separate service and About pages have not been created. Testimonials are omitted until verified client quotes are supplied. The established Hawkesbury location is retained.
 
-Instagram showcases the two selected pinned posts via Instagram embeds. New posts are not added automatically; update the embed URLs to change the selection.
+## Form
+The existing FormSubmit connection to zac@elvenbuilt.com is preserved, along with required fields, reCAPTCHA and honeypot protection. Email activation and delivery are not verified. No test enquiry was sent. If not yet activated, the first submission will prompt Zac to confirm his email through FormSubmit.
 
-The Instagram showcase now uses the supplied MP4 and photograph locally. The reel plays directly on the page; separate caption links open the original Instagram posts. Media copies are compressed for the web; the originals are unchanged.
+## Media and fonts
+Supplied photographs and MP4s are included as web-optimised copies. The videos play locally; separate buttons link to Instagram. The showcase does not automatically synchronise with Instagram. The approved system sans-serif and Georgia typography is retained.
 
-## Enquiry form
-The form posts to FormSubmit for delivery to zac@elvenbuilt.com. Required fields and email format use native browser validation. FormSubmit reCAPTCHA and a honeypot provide spam protection. The first submission triggers an activation email; Zac must confirm that email before delivery is active. Submit a fresh test after activation and verify receipt. Live delivery has not been verified. Successful submissions use FormSubmit’s confirmation page.
+New media: Windsor craftsmanship photograph, Bowen Mountain interior, builder portrait, and two project films (Bowen Mountain and Windsor). Videos load on demand and only one plays at a time. Original Instagram links are retained separately.
